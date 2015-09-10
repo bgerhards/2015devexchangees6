@@ -1,0 +1,14 @@
+{
+  "name": "DevExchange",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "gulp && jasmine"
+  },
+  "dependencies": {
+    "gulp":"*",
+    "gulp-babel": "*",
+    "gulp-rename": "*",
+    "jasmine-node": "*"
+  }  
+}

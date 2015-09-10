@@ -9,6 +9,7 @@
     "gulp":"*",
     "gulp-babel": "*",
     "gulp-rename": "*",
+    "jasmine": "*",
     "jasmine-node": "*"
   }  
 }

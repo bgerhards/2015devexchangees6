@@ -31,4 +31,4 @@ This README would normally document whatever steps are necessary to get your app
 * Code review
 * Other guidelines
 
-* This repository was created by Brian Gerhards 2015
+This repository was created by Brian Gerhards 2015

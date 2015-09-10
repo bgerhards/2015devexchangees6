@@ -1,0 +1,20 @@
+Kata 2015
+ES6/EcmaScript 2015
+
+Goals: 
+  ☐ Create a small shop program
+  ☐ I want to add and manage items
+  ☐ I want to add items to a shopping card
+  ☐ Once the customer is ready to check out, I want to provide them with the subtotal. 
+  ☐ After I have a subtotal, I want to calculated the tax amount
+  ☐ Items that are Tax Exempt tax should not be added
+  ☐ I want to provide a total to the customer prior them submitting a 'payment'
+  ☐ I want to keep inventory of items
+
+ES6 Methods to Encompass in KATA:
+  ☐ Const/let 
+  ☐ Arrow functions
+  ☐ Default parameters
+  ☐ String interpolation
+  ☐ Object property shorthand
+  ☐ Destructing

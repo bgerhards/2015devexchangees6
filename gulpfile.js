@@ -7,7 +7,7 @@ gulp.task('default', ['scripts:src',"tests:src"], function() {});
 gulp.task("scripts:src", function () {
   return gulp.src("src/*.js")
     .pipe(babel())
-    .pipe(gulp.dest("es6Converted"));
+    .pipe(gulp.dest("compiled/src"));
 });
 
 gulp.task("tests:src", function () {
@@ -16,5 +16,5 @@ gulp.task("tests:src", function () {
     .pipe(rename(function (path) {
     	path.basename += "-spec"
   	}))
-    .pipe(gulp.dest("spec"));
+    .pipe(gulp.dest("compiled/test"));
 });

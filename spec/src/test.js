@@ -1,5 +1,5 @@
-import Item from '../es6Converted/item';
-var items = [];
+import Item from '../src/item';
+const items = [];
 
 describe("Testing Output", function () {
 
@@ -16,7 +16,6 @@ describe("Testing Output", function () {
 		expect(items[0].cost).toBe('.60');
 		expect(items[0].taxExempt).toBe(true);
 
-
 		// expect(items[1].itemName).toBe('Tomato');
 		// expect(items[1].itemNumber).toBe(2);
 	})
@@ -30,4 +29,6 @@ describe("Testing Output", function () {
 		expect(items[1].name).toBe('Tomato');
 		expect(items[1].id).toBe(2);
 	})
+
+
 })

@@ -1,7 +1,3 @@
-# README #
-
-This README would normally document whatever steps are necessary to get your application up and running.
-
 ### What is this repository for? ###
 
 * This repository is created for the September 2015 Developer Exchange. This is the base model for an ES6 Kata. This Kata was voted on by those in attendance of the August 2015 Developer Exchange.
